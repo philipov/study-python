@@ -8,7 +8,7 @@ bibliography of links to video and text resources for python
 - Download Git command-line tools
     [[link]](https://git-scm.com/download/win)
 - Download TortoiseGit
-    [[https://tortoisegit.org/]]
+    [[link]](https://tortoisegit.org/)
 - Getting Started with PyCharm
     [[playlist]](https://www.youtube.com/watch?v=BPC-bGdBSM8&list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP)
 
