@@ -5,9 +5,12 @@ bibliography of links to video and text resources for python
 ##### getting started
 - Download Anaconda Distribution
     [[link]](https://www.anaconda.com/download/)
+- Download Git command-line tools
+    [[link]](https://git-scm.com/download/win)
+- Download TortoiseGit
+    [[https://tortoisegit.org/]]
 - Getting Started with PyCharm
     [[playlist]](https://www.youtube.com/watch?v=BPC-bGdBSM8&list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP)
-
 
 ---
 ##### introduction to python
