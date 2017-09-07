@@ -30,28 +30,6 @@ bibliography of links to video and text resources for python
 
 
 ---
-##### python distributions and user interfaces
-- Download Anaconda Distribution
-    [[link]](https://www.anaconda.com/download/)
-- Getting Started with PyCharm
-    [[playlist]](https://www.youtube.com/watch?v=BPC-bGdBSM8&list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP)
-- IPython and Jupyter in Depth: High productivity, interactive Python (2017)
-    [[video]](https://www.youtube.com/watch?v=VQBZ2MqWBZI)
-
-
----
-##### product research and design
-- Invitation to [Python] Core Developer World (2016)
-    [[video]](https://www.youtube.com/watch?v=-TdrFjDJn5E)
-- Techniques for Design Reviews (2017)
-    [[video]](https://www.youtube.com/watch?v=cNqJDRsefg8)
-- Design Principles (2016)
-    [[video]](https://www.youtube.com/watch?v=bh8QVDaroYE)
-- Modern Python patterns and idioms
-    [[video]](https://www.youtube.com/watch?v=LeuChRCByZc)
-
-  
----
 ##### standard topics
 - Modern Python Dictionaries - A confluence of a dozen great ideas (2017)
     [[video]](https://www.youtube.com/watch?v=npw4s1QTmPg)
@@ -75,6 +53,20 @@ bibliography of links to video and text resources for python
     [[video]](https://www.youtube.com/watch?v=7ZbwZgrXnwY)
 - Python Epiphanies (2017)
     [[video]](https://www.youtube.com/watch?v=oQca6eDcjA8)
+
+
+---
+##### product research and design
+- Invitation to [Python] Core Developer World (2016)
+    [[video]](https://www.youtube.com/watch?v=-TdrFjDJn5E)
+- Techniques for Design Reviews (2017)
+    [[video]](https://www.youtube.com/watch?v=cNqJDRsefg8)
+- Design Principles (2016)
+    [[video]](https://www.youtube.com/watch?v=bh8QVDaroYE)
+- Modern Python Patterns and Idioms (2015])
+    [[video]](https://www.youtube.com/watch?v=LeuChRCByZc)
+- "Good Enough" IS Good Enough! (2016)
+    [[video]](https://www.youtube.com/watch?v=_Ek3A2b-nHU)
 
 
 ---
@@ -161,6 +153,20 @@ bibliography of links to video and text resources for python
     [[video]](https://www.youtube.com/watch?v=W5WE9Db2RLU)
 - Time Series Analysis (2017)
     [[video]](https://www.youtube.com/watch?v=zmfe2RaX-14)
+
+
+---
+##### python distributions and user interfaces
+- Download Anaconda Distribution
+    [[link]](https://www.anaconda.com/download/)
+- Getting Started with PyCharm
+    [[playlist]](https://www.youtube.com/watch?v=BPC-bGdBSM8&list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP)
+- IPython and Jupyter in Depth: High productivity, interactive Python (2017)
+    [[video]](https://www.youtube.com/watch?v=VQBZ2MqWBZI)
+- Xonsh - put some Python in your Shell
+    [[video]](https://www.youtube.com/watch?v=lopI4HkA9rE)
+- xonsh (2016)
+    [[video]](https://www.youtube.com/watch?v=uaje5I22kgE)
 
 
 ---
