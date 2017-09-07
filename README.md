@@ -181,24 +181,18 @@ bibliography of links to video and text resources for python
     [[docs]](https://dask.pydata.org/en/latest/)
     [[tutorial]](https://github.com/dask/dask-tutorial)
     [[github]](https://github.com/dask/dask)
-    
-    
 - Big data processing with Apache Beam
     [[video]](https://www.youtube.com/watch?v=z2nEOPz30so)
 - `Apache Beam`
     [[github]](https://github.com/apache/beam)
     [[docs]](https://beam.apache.org/documentation/)
     [[home]](https://beam.apache.org/)
-
-
 - Building Stream Processing Applications (2017)
     [[video]](https://www.youtube.com/watch?v=CHCC2ITcMfk)
 - One Data Pipeline to Rule Them All (2017)
     [[video]](https://www.youtube.com/watch?v=N6riK1Xtyng)
 - Temporal Data Structures with SQLAlchemy and Postgres (2017)
     [[video]](https://www.youtube.com/watch?v=2Za9kca3Tu0)
-
-
 - Build a data pipeline with Luigi (2017)
     [[video]](https://www.youtube.com/watch?v=jpkZGXrhZJ8)
 - Dr Microservices, Or How I Learned to Stop Worrying and Love the API (2017)
