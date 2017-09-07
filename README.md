@@ -2,6 +2,14 @@
 bibliography of links to video and text resources for python
 
 ---
+##### getting started
+- Download Anaconda Distribution
+    [[link]](https://www.anaconda.com/download/)
+- Getting Started with PyCharm
+    [[playlist]](https://www.youtube.com/watch?v=BPC-bGdBSM8&list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP)
+
+
+---
 ##### introduction to python
 - What makes Python Awesome? (2013)
     [[video]](https://www.youtube.com/watch?v=NfngrdLv9ZQ)
@@ -156,11 +164,7 @@ bibliography of links to video and text resources for python
 
 
 ---
-##### python distributions and user interfaces
-- Download Anaconda Distribution
-    [[link]](https://www.anaconda.com/download/)
-- Getting Started with PyCharm
-    [[playlist]](https://www.youtube.com/watch?v=BPC-bGdBSM8&list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP)
+##### advanced user interfaces
 - IPython and Jupyter in Depth: High productivity, interactive Python (2017)
     [[video]](https://www.youtube.com/watch?v=VQBZ2MqWBZI)
 - Xonsh - put some Python in your Shell
