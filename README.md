@@ -48,6 +48,8 @@ bibliography of links to video and text resources for python
     [[video]](https://www.youtube.com/watch?v=npw4s1QTmPg)
 - The Dictionary Even Mightier (2017)
     [[video]](https://www.youtube.com/watch?v=66P5FMkWoVU)
+- Magic Methods and Operator Overloading
+    [[tutorial]](https://www.python-course.eu/python3_magic_methods.php
 - Exception and error handling in Python 2 and Python 3 (2016)
     [[video]](https://www.youtube.com/watch?v=frZrBgWHJdY)
 - Passing Exceptions 101 Paradigms in Error Handling
