@@ -2,17 +2,6 @@
 bibliography of links to video and text resources for python
 
 ---
-##### getting started
-- Download Anaconda Distribution
-    [[link]](https://www.anaconda.com/download/)
-- Download Git command-line tools
-    [[link]](https://git-scm.com/download/win)
-- Download TortoiseGit
-    [[link]](https://tortoisegit.org/)
-- Getting Started with PyCharm
-    [[playlist]](https://www.youtube.com/watch?v=BPC-bGdBSM8&list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP)
-
----
 ##### introduction to python
 - What makes Python Awesome? (2013)
     [[video]](https://www.youtube.com/watch?v=NfngrdLv9ZQ)
@@ -40,6 +29,24 @@ bibliography of links to video and text resources for python
     [[docs]](https://docs.python.org/3.6/reference/index.html)
 - **The Python Language Standard Library**
     [[docs]](https://docs.python.org/3.6/library/index.html)
+
+
+---
+##### getting started
+- Download Anaconda Distribution
+    [[link]](https://www.anaconda.com/download/)
+- Download Git command-line tools
+    [[link]](https://git-scm.com/download/win)
+- Download TortoiseGit
+    [[link]](https://tortoisegit.org/)
+- Getting Started with PyCharm
+    [[playlist]](https://www.youtube.com/watch?v=BPC-bGdBSM8&list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP)
+- IPython and Jupyter in Depth: High productivity, interactive Python (2017)
+    [[video]](https://www.youtube.com/watch?v=VQBZ2MqWBZI)
+- Xonsh - put some Python in your Shell
+    [[video]](https://www.youtube.com/watch?v=lopI4HkA9rE)
+- xonsh (2016)
+    [[video]](https://www.youtube.com/watch?v=uaje5I22kgE)
 
 
 ---
@@ -169,15 +176,6 @@ bibliography of links to video and text resources for python
 - Time Series Analysis (2017)
     [[video]](https://www.youtube.com/watch?v=zmfe2RaX-14)
 
-
----
-##### advanced user interfaces
-- IPython and Jupyter in Depth: High productivity, interactive Python (2017)
-    [[video]](https://www.youtube.com/watch?v=VQBZ2MqWBZI)
-- Xonsh - put some Python in your Shell
-    [[video]](https://www.youtube.com/watch?v=lopI4HkA9rE)
-- xonsh (2016)
-    [[video]](https://www.youtube.com/watch?v=uaje5I22kgE)
 
 
 ---
