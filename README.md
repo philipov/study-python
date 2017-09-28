@@ -11,6 +11,7 @@ bibliography of links to video and text resources for python
     [[video]](https://youtu.be/u8g9scXeAcI?t=50s)
 - Transforming Code into Beautiful, Idiomatic Python (2013)
     [[video]](https://www.youtube.com/watch?v=OSGv2VnC0go)
+    [[github]](https://github.com/gohanlon/idiomatic-python/tree/master/src)
 - Functions, Files, Yield, and Lambda
     [[video]](https://www.youtube.com/watch?v=w0MN71g_vQI&list=PLd115Y1edsKLUDgzJumvrw8pE0dEX-XkA&index=3)
 - Generators Will Free Your Mind (2014)
