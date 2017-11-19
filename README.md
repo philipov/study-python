@@ -5,11 +5,11 @@ bibliography of links to video and text resources for python
 - [introduction to python](#introduction-to-python)
 - [getting started](#getting-started)
 - [version control](#version-control)
+- [package and environment management](#package-and-environment-management)
 - [intermediate topics](#standard-topics)
 - [product research and design](#product-research-and-design)
 - [testing, optimization, debugging](#testing-optimization-debugging)
 - [concurrency and asynchronous programming](#concurrency-and-asynchronous-programming)
-- [package and environment management](#package-and-environment-management)
 - [pydata ecosystem](#pydata-ecosystem)
 - [visualization](#visualization)
 - [application instrumentation](#application-instrumentation)
@@ -68,6 +68,7 @@ bibliography of links to video and text resources for python
 - xonsh (2016)
     [[video]](https://www.youtube.com/watch?v=uaje5I22kgE)
 
+
 ---
 ##### version control
 - Get Started with Git (2016)
@@ -82,8 +83,30 @@ bibliography of links to video and text resources for python
     [[video]](https://help.github.com/articles/changing-a-remote-s-url/)
 - undoing, fixing, or removing commits in git
     [[link]](https://sethrobertson.github.io/GitFixUm/fixup.html)
-    
-    
+
+
+---
+##### package and environment management
+- Share Your Code! Python Packaging Without Complication
+    [[video]](https://www.youtube.com/watch?v=qOH-h-EKKac)
+- pip - python's built-in package manager
+    [[docs]](https://pip.pypa.io/en/latest/)
+- Python Packaging User Guide 
+    [[docs]](https://packaging.python.org/)
+- Modules and Packages: Live and Let Die
+    [[video]](https://www.youtube.com/watch?v=bGYZEKstQuQ)
+- Packaging at PayPal
+    [[blog]](https://www.paypal-engineering.com/2016/09/07/python-packaging-at-paypal/)
+- What's in your pip toolbox
+    [[video]](https://www.youtube.com/watch?v=HOZxSmsbk4M)
+- The Many Layers of Packaging 
+    [[guide]](http://sedimental.org/the_packaging_gradient.html)
+- Conda: Myths and Misconceptions
+    [[blog]](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)
+- So you want to write a package manager
+    [[blog]](https://medium.com/sdboyer/so-you-want-to-write-a-package-manager-4ae9c17d9527)
+
+
 ---
 ##### intermediate topics
 - Modern Python Dictionaries - A confluence of a dozen great ideas (2017)
@@ -152,28 +175,6 @@ bibliography of links to video and text resources for python
     [[video]](https://www.youtube.com/watch?v=2ZFFv-wZ8_g)
 - Implementing Concurrency and Parallelism From The Ground Up (2017)
     [[video]](https://www.youtube.com/watch?v=31fXwpb0P9c)
-
-
----
-##### package and environment management
-- Share Your Code! Python Packaging Without Complication
-    [[video]](https://www.youtube.com/watch?v=qOH-h-EKKac)
-- pip - python's built-in package manager
-    [[docs]](https://pip.pypa.io/en/latest/)
-- Python Packaging User Guide 
-    [[docs]](https://packaging.python.org/)
-- Modules and Packages: Live and Let Die
-    [[video]](https://www.youtube.com/watch?v=bGYZEKstQuQ)
-- Packaging at PayPal
-    [[blog]](https://www.paypal-engineering.com/2016/09/07/python-packaging-at-paypal/)
-- What's in your pip toolbox
-    [[video]](https://www.youtube.com/watch?v=HOZxSmsbk4M)
-- The Many Layers of Packaging 
-    [[guide]](http://sedimental.org/the_packaging_gradient.html)
-- Conda: Myths and Misconceptions
-    [[blog]](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)
-- So you want to write a package manager
-    [[blog]](https://medium.com/sdboyer/so-you-want-to-write-a-package-manager-4ae9c17d9527)
 
 
 ---
