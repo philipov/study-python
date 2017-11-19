@@ -1,6 +1,23 @@
 # study-python
 bibliography of links to video and text resources for python
 
+
+- [introduction to python](#introduction_to_python)
+- getting started
+- standard topics
+- product research and design
+- testing, optimization, debugging
+- concurrency and asynchronous programming
+- package and environment management
+- version control
+- pydata ecosystem
+- visualization
+- application instrumentation
+- web services
+- provisioning
+- interoperability
+
+
 ---
 ##### introduction to python
 - What makes Python Awesome? (2013)
