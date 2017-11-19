@@ -7,13 +7,13 @@ bibliography of links to video and text resources for python
     [[video]](https://www.youtube.com/watch?v=NfngrdLv9ZQ)
 - Builtin Superheroes (2016)
     [[video]](https://www.youtube.com/watch?v=j6VSAsKAj98)
+- _Corey Schafer_ - Python Tutorials
+    [[playlist]](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=1)
 - Looping Like a Pro in Python (2017)
     [[video]](https://youtu.be/u8g9scXeAcI?t=50s)
 - Transforming Code into Beautiful, Idiomatic Python (2013)
     [[video]](https://www.youtube.com/watch?v=OSGv2VnC0go)
     [[github]](https://github.com/gohanlon/idiomatic-python/tree/master/src)
-- Functions, Files, Yield, and Lambda
-    [[video]](https://www.youtube.com/watch?v=w0MN71g_vQI&list=PLd115Y1edsKLUDgzJumvrw8pE0dEX-XkA&index=3)
 - Generators Will Free Your Mind (2014)
     [[video]](https://www.youtube.com/watch?v=RdhoN4VVqq8)
 - Python's Class Development Toolkit (2013)
@@ -24,8 +24,6 @@ bibliography of links to video and text resources for python
     [[video]](https://www.youtube.com/watch?v=EiOglTERPEo)
 - Beyond PEP 8 -- Best practices for beautiful intelligible code (2015)
     [[video]](https://www.youtube.com/watch?v=wf-BqAjZb8M)
-- _Corey Schafer_ - Python Tutorials
-    [[playlist]](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=1)
 - **The Python Language Reference**
     [[docs]](https://docs.python.org/3.6/reference/index.html)
 - **The Python Language Standard Library**
