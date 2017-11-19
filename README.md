@@ -9,7 +9,7 @@ bibliography of links to video and text resources for python
 - [intermediate topics](#standard-topics)
 - [testing, optimization, debugging](#testing-optimization-debugging)
 - [product research and design](#product-research-and-design)
-- [concurrency and asynchronous programming](#concurrency-and-asynchronous-programming
+- [concurrency and asynchronous programming](#concurrency-and-asynchronous-programming)
 - [pydata ecosystem](#pydata-ecosystem)
 - [visualization](#visualization)
 - [application instrumentation](#application-instrumentation)
