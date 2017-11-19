@@ -33,10 +33,6 @@ bibliography of links to video and text resources for python
     [[github]](https://github.com/gohanlon/idiomatic-python/tree/master/src)
 - Generators Will Free Your Mind (2014)
     [[video]](https://www.youtube.com/watch?v=RdhoN4VVqq8)
-- Passing Exceptions 101 Paradigms in Error Handling (2017)
-    [[video]](https://www.youtube.com/watch?v=BMtJbrvwlmo)
-- Exception and error handling in Python 2 and Python 3 (2016)
-    [[video]](https://www.youtube.com/watch?v=frZrBgWHJdY)
 - Python's Class Development Toolkit (2013)
     [[video]](https://www.youtube.com/watch?v=HTLu2DFOdTg)
 - The Art of Subclassing (2012)
@@ -45,6 +41,10 @@ bibliography of links to video and text resources for python
     [[video]](https://www.youtube.com/watch?v=EiOglTERPEo)
 - Beyond PEP 8 -- Best practices for beautiful intelligible code (2015)
     [[video]](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+- Passing Exceptions 101 Paradigms in Error Handling (2017)
+    [[video]](https://www.youtube.com/watch?v=BMtJbrvwlmo)
+- Exception and error handling in Python 2 and Python 3 (2016)
+    [[video]](https://www.youtube.com/watch?v=frZrBgWHJdY)
 - **The Python Language Reference**
     [[docs]](https://docs.python.org/3.6/reference/index.html)
 - **The Python Language Standard Library**
