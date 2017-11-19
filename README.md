@@ -13,7 +13,6 @@ bibliography of links to video and text resources for python
 - [pydata ecosystem](#pydata-ecosystem)
 - [visualization](#visualization)
 - [application instrumentation](#application-instrumentation)
-- [web services](#web-services)
 - [provisioning](#provisioning)
 - [interoperability](#interoperability)
 
@@ -243,13 +242,9 @@ bibliography of links to video and text resources for python
 
 
 ---
-##### web services
+##### provisioning
 - 5 ways to deploy your Python web app in 2017
     [[video]](https://www.youtube.com/watch?v=vGphzPLemZE)
-
-
----
-##### provisioning
 - Python in The Serverless Era (2017)
     [[video]](https://www.youtube.com/watch?v=G17E4Muylis)
 - Awesome Command Line Tools (2017)
