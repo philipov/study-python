@@ -7,9 +7,9 @@ bibliography of links to video and text resources for python
 - [version control](#version-control)
 - [package and environment management](#package-and-environment-management)
 - [intermediate topics](#standard-topics)
-- [product research and design](#product-research-and-design)
 - [testing, optimization, debugging](#testing-optimization-debugging)
-- [concurrency and asynchronous programming](#concurrency-and-asynchronous-programming)
+- [product research and design](#product-research-and-design)
+- [concurrency and asynchronous programming](#concurrency-and-asynchronous-programming
 - [pydata ecosystem](#pydata-ecosystem)
 - [visualization](#visualization)
 - [application instrumentation](#application-instrumentation)
@@ -131,19 +131,6 @@ bibliography of links to video and text resources for python
     [[video]](https://www.youtube.com/watch?v=oQca6eDcjA8)
 
 
----
-##### product research and design
-- Invitation to [Python] Core Developer World (2016)
-    [[video]](https://www.youtube.com/watch?v=-TdrFjDJn5E)
-- Techniques for Design Reviews (2017)
-    [[video]](https://www.youtube.com/watch?v=cNqJDRsefg8)
-- Design Principles (2016)
-    [[video]](https://www.youtube.com/watch?v=bh8QVDaroYE)
-- Modern Python Patterns and Idioms (2015])
-    [[video]](https://www.youtube.com/watch?v=LeuChRCByZc)
-- "Good Enough" IS Good Enough! (2016)
-    [[video]](https://www.youtube.com/watch?v=_Ek3A2b-nHU)
-
 
 ---
 ##### testing, optimization, debugging
@@ -157,6 +144,20 @@ bibliography of links to video and text resources for python
     [[video]](https://www.youtube.com/watch?v=0By5yfhkiRs)
 - Faster Python Programs Measure, don't Guess (2017)
     [[video]](https://www.youtube.com/watch?v=xmuEsYut9Pc)
+
+
+---
+##### product research and design
+- Invitation to [Python] Core Developer World (2016)
+    [[video]](https://www.youtube.com/watch?v=-TdrFjDJn5E)
+- Techniques for Design Reviews (2017)
+    [[video]](https://www.youtube.com/watch?v=cNqJDRsefg8)
+- Design Principles (2016)
+    [[video]](https://www.youtube.com/watch?v=bh8QVDaroYE)
+- Modern Python Patterns and Idioms (2015])
+    [[video]](https://www.youtube.com/watch?v=LeuChRCByZc)
+- "Good Enough" IS Good Enough! (2016)
+    [[video]](https://www.youtube.com/watch?v=_Ek3A2b-nHU)
 
 
 ---
