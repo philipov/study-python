@@ -5,7 +5,7 @@ bibliography of links to video and text resources for python
 - [introduction to python](#introduction-to-python)
 - [getting started](#getting-started)
 - [version control](#version-control)
-- [standard topics](#standard-topics)
+- [intermediate topics](#standard-topics)
 - [product research and design](#product-research-and-design)
 - [testing, optimization, debugging](#testing-optimization-debugging)
 - [concurrency and asynchronous programming](#concurrency-and-asynchronous-programming)
@@ -33,6 +33,8 @@ bibliography of links to video and text resources for python
     [[github]](https://github.com/gohanlon/idiomatic-python/tree/master/src)
 - Generators Will Free Your Mind (2014)
     [[video]](https://www.youtube.com/watch?v=RdhoN4VVqq8)
+- Exception and error handling in Python 2 and Python 3 (2016)
+    [[video]](https://www.youtube.com/watch?v=frZrBgWHJdY)
 - Python's Class Development Toolkit (2013)
     [[video]](https://www.youtube.com/watch?v=HTLu2DFOdTg)
 - The Art of Subclassing (2012)
@@ -81,15 +83,13 @@ bibliography of links to video and text resources for python
     
     
 ---
-##### standard topics
+##### intermediate topics
 - Modern Python Dictionaries - A confluence of a dozen great ideas (2017)
     [[video]](https://www.youtube.com/watch?v=npw4s1QTmPg)
 - The Dictionary Even Mightier (2017)
     [[video]](https://www.youtube.com/watch?v=66P5FMkWoVU)
 - Magic Methods and Operator Overloading
     [[tutorial]](https://www.python-course.eu/python3_magic_methods.php)
-- Exception and error handling in Python 2 and Python 3 (2016)
-    [[video]](https://www.youtube.com/watch?v=frZrBgWHJdY)
 - Passing Exceptions 101 Paradigms in Error Handling
     [[video]](https://www.youtube.com/watch?v=BMtJbrvwlmo)
 - Decorators, unwrapped -- How do they work (2017)
