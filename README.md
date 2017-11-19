@@ -2,20 +2,20 @@
 bibliography of links to video and text resources for python
 
 
-- [introduction to python](#introduction_to_python)
-- getting started
-- standard topics
-- product research and design
-- testing, optimization, debugging
-- concurrency and asynchronous programming
-- package and environment management
-- version control
-- pydata ecosystem
-- visualization
-- application instrumentation
-- web services
-- provisioning
-- interoperability
+- [introduction to python](#introduction-to-python)
+- [getting started](#getting-started)
+- [version control](#version-control)
+- [standard topics](#standard-topics)
+- [product research and design](#product-research-and-design)
+- [testing, optimization, debugging](#testing-optimization-debugging)
+- [concurrency and asynchronous programming](#concurrency-and-asynchronous-programming)
+- [package and environment management](#package-and-environment-management)
+- [pydata ecosystem](#pydata-ecosystem)
+- [visualization](#visualization)
+- [application instrumentation](#application-instrumentation)
+- [web services](#web-services)
+- [provisioning](#provisioning)
+- [interoperability](#interoperability)
 
 
 ---
@@ -64,7 +64,22 @@ bibliography of links to video and text resources for python
 - xonsh (2016)
     [[video]](https://www.youtube.com/watch?v=uaje5I22kgE)
 
-
+---
+##### version control
+- Get Started with Git (2016)
+    [[video]](https://www.youtube.com/watch?v=RrdECLvHW6g)
+- Advanced Git (2015)
+    [[video]](https://www.youtube.com/watch?v=4EOZvow1mk4)
+- _Corey Schafer_ - Git Tutorials
+    [[playlist]](https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)
+- git -- Adding a remote
+    [[docs]](https://help.github.com/articles/adding-a-remote/)
+- git -- Changing a remote's URL
+    [[video]](https://help.github.com/articles/changing-a-remote-s-url/)
+- undoing, fixing, or removing commits in git
+    [[link]](https://sethrobertson.github.io/GitFixUm/fixup.html)
+    
+    
 ---
 ##### standard topics
 - Modern Python Dictionaries - A confluence of a dozen great ideas (2017)
@@ -159,22 +174,6 @@ bibliography of links to video and text resources for python
     [[blog]](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)
 - So you want to write a package manager
     [[blog]](https://medium.com/sdboyer/so-you-want-to-write-a-package-manager-4ae9c17d9527)
-
-
----
-##### version control
-- Get Started with Git (2016)
-    [[video]](https://www.youtube.com/watch?v=RrdECLvHW6g)
-- Advanced Git (2015)
-    [[video]](https://www.youtube.com/watch?v=4EOZvow1mk4)
-- _Corey Schafer_ - Git Tutorials
-    [[playlist]](https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)
-- git -- Adding a remote
-    [[docs]](https://help.github.com/articles/adding-a-remote/)
-- git -- Changing a remote's URL
-    [[video]](https://help.github.com/articles/changing-a-remote-s-url/)
-- undoing, fixing, or removing commits in git
-    [[link]](https://sethrobertson.github.io/GitFixUm/fixup.html)
 
 
 ---
