@@ -33,6 +33,8 @@ bibliography of links to video and text resources for python
     [[github]](https://github.com/gohanlon/idiomatic-python/tree/master/src)
 - Generators Will Free Your Mind (2014)
     [[video]](https://www.youtube.com/watch?v=RdhoN4VVqq8)
+- Passing Exceptions 101 Paradigms in Error Handling
+    [[video]](https://www.youtube.com/watch?v=BMtJbrvwlmo)
 - Exception and error handling in Python 2 and Python 3 (2016)
     [[video]](https://www.youtube.com/watch?v=frZrBgWHJdY)
 - Python's Class Development Toolkit (2013)
@@ -90,8 +92,6 @@ bibliography of links to video and text resources for python
     [[video]](https://www.youtube.com/watch?v=66P5FMkWoVU)
 - Magic Methods and Operator Overloading
     [[tutorial]](https://www.python-course.eu/python3_magic_methods.php)
-- Passing Exceptions 101 Paradigms in Error Handling
-    [[video]](https://www.youtube.com/watch?v=BMtJbrvwlmo)
 - Decorators, unwrapped -- How do they work (2017)
     [[video]]([[video]](https://www.youtube.com/watch?v=UBSyD1RkOX0))
 - Know thy self: Methods and method binding (2017)
